@@ -1,3 +1,4 @@
 Cabeza normal
 Cabeza con casco de acero
 ... con ojos de rayo laser
+Se agregan los brazos metálicos...
